@@ -2,7 +2,7 @@
 web.html
 <html>
 <head>
-<title> <b> Univérsité d'Amar Thledji <br> laghouat </br> </b></title>
+<title> <b> Univérsité CUAT <br> Ain temouchent  </br> </b></title>
 </head>
 <body bgcolor=ceebfe text=000000 link=ffffff >
 <img src="image/univ.png"/>
